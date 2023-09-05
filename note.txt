@@ -1,11 +1,46 @@
+/* Browser Storage module */
+
 localStorage.setItem()
 localStorage.getItem()
 
-
-
-
 JSON.stringify();
 JSON.parse();
+
+/* Debugging tool module */
+
+alert()
+confirm() // return true or false 
+prompt() // collect data
+
+Google search > Location API 
+Location anatomy
+location.href='url here'
+location.assign()
+location.replace()
+location.reload()
+history.back()
+history.forward()
+history.go(-3)
+
+Google Search > Chrome console API 
+
+console.count()
+console.monitor()
+console.unmonitor()
+console.table()
+
+Google search > devtools tips and tricks
+
+/* Dev tool module */
+
+Insta Shohor Solution (Search on programming hero github and problem solution korese)
+
+
+
+
+
+
+
 
 
 

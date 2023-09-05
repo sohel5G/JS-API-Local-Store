@@ -44,8 +44,8 @@ const displayProFromLocalStore = () => {
         displayPro(productName, productQuantity);
     }
 }
-
 displayProFromLocalStore();
+
 
 
 
